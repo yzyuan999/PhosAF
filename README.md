@@ -1,5 +1,5 @@
 # PhosAF
-PhosAF: an integrated deep learning architecture for predicting protein phosphorylation sites based on feature fusion with AlphaFold2
+PhosAF
 # System requirement
 PhosAF is developed under Windows environment with:  
 numpy  1.21.6  
